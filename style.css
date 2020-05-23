@@ -34,3 +34,20 @@ body {
 .video {
     text-align: center;
 }
+
+.image {
+    text-align: center;
+}
+
+.phone-icon {
+    margin-top: 35px;
+}
+
+.trademark {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
+
+
